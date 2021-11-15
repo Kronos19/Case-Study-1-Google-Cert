@@ -31,11 +31,9 @@ Solutions:
 The two charts below show the top 5 and bottom 5 stations by bike type for both memberships.  Streeter Dr and Grand Ave are by far the most trafficked start and stop location followed by Michigan Ave & Oak St, Clark St & Elm St, Theater on the Lake, and Millennium Park.  Interestingly, all the top spots except for Clark St & Elm St are located at parks.  Increasing the number of docking stations at these spots might increase the number of memberships.  Another suggestion would be to have member only lockers at some locations.
 
 Pease refer to graphics Start Station Ride Count and End Station Ride Count
-	
 	The information on average rides times holds some interesting trends.  Casual members spend double the time biking each day of the week and by month.  Since we only have one year of data and memberships are for some length of time, memberships are more consistent.   One suggestion I could make based on this data is to have lighter framed bicycles offered to members, with more speeds to cater to the casual user experience.
 
 Please refer to graphics Average Ride Duration by Day of Week, Average Ride Duration by Month, and their respective graphs split by bike type.
-
 	Casual riders ride more on weekends than members, while members ride more during the week. Casual riders also are most active during the summer months.  There are two gaps in data for classic bikes and electric bikes.  Classic bikes are not in use during the fall this year.  From spring to end of summer there is no member usage of docked bikes.  I believe having services that cater to an outdoor setting can be useful during warmer seasons.  Some idea to consider would be hosting cycling events like or races, or classes on biking.
 
 Please refer to graphics Ride Count by Week and Ride Count by Month
