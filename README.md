@@ -1,4 +1,7 @@
 # Case-Study-1-Google-Cert
+
+*Please refer to this Readme until my Github Page is up*
+
 Bike Case Study Outline
 Firm: Cyclistic
 Location: Chicago
